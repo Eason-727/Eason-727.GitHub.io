@@ -11,6 +11,3 @@ date: 2023-08-29
     <p>{{ item }}</p>
 </div>
 ```
-<div v-for="item in 300" >
-    <p>{{ item }}</p>
-</div>
